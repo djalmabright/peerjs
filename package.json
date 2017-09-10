@@ -10,7 +10,7 @@
   "author": "Michelle Bu, Eric Zhang",
   "license": "MIT",
   "scripts": {
-    "start": "./lib/peer.js",
+    "start": "lib/peer.js",
     "prepublish": "./node_modules/.bin/grunt"
   },
   "devDependencies": {
